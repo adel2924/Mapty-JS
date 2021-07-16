@@ -1,2 +1,2 @@
 # Workout Tracking App 
-# Udemy Javascript course project
+Udemy Javascript course project
